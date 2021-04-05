@@ -1,1 +1,1 @@
-# go-webassembly-performance-test
+# go-webassembly-benchmark
